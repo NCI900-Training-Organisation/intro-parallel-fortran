@@ -1,7 +1,10 @@
-Name of the Workshop
+Modern Fortran Programming on Gadi
 =================================================
 
-This repository provides an introduction to the concepts of parallel programming using Python.
+This document is a short introduction of modern Fortran for scientific computing.
+We particularly focus on compiling parallel code and running Fortran95 code on Gadi.
+We will write small programs in Fortran95, learn array-focused features, and compile with Gadi-supported compilers.
+However, this is not a programming language course - we don't cover programming concepts in depth.
 
 .. note::
 
@@ -11,11 +14,10 @@ Contents
 --------
 
 .. toctree::
-
-   prerequisite
-   outcomes
-   modules
-   packages
-   are_errors.rst
    tutorial
-   references
+
+   .. prerequisite
+   .. outcomes
+   .. modules
+   
+   .. references

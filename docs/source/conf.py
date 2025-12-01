@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Name of the Tutorial'
+project = 'Modern Fortran Programming on Gadi'
 copyright = '2024, National Computational Infrastructure'
-author = 'Name of the author'
+author = 'NCI Training'
 
 release = '0.1'
 version = '0.1.0'
