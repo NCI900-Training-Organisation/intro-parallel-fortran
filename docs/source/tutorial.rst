@@ -1,8 +1,6 @@
 Tutorial
 ========
 
-Describe the tutorial here.
-
 
 .. toctree::
 
