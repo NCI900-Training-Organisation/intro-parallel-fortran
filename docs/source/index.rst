@@ -16,9 +16,3 @@ Contents
 
 .. toctree::
    tutorial
-
-   .. prerequisite
-   .. outcomes
-   .. modules
-   
-   .. references
