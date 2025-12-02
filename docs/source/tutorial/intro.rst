@@ -28,7 +28,7 @@ Prerequisites and setup
 - Comfortable with the command line
 - Fortran compilers on Gadi:
   - GNU Fortran: ``gfortran`` through module ``gcc``
-  - Intel Fortran Classic: ``ifort`` through old intel-compiler/* modules
+  - Intel Fortran Classic: ``ifort`` through old ``intel-compiler/*`` modules
   - Intel Fortran ``ifx`` through intel-compiler-llvm/* modules
   - Parallel compiler wrapper ``mpif90`` through ``openmpi`` or ``intel-mpi`` module. 
 
